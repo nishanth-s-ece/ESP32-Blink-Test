@@ -11,7 +11,7 @@ This repository documents the foundational setup of my ESP32 development ecosyst
 * **Connection Interface:** Silicon Labs CP210x / WCH CH340 Serial Bridge
 
 ### Arduino IDE Workspace Setup:
-![IDE Setup](WhatsApp Image 2026-07-02 at 10.59.45 PM.png)
+![IDE Setup](WhatsApp Image 2026-07-02 at 10.59.45 PM.jpg)
 
 ## 🔌 Pin Mapping
 | Peripheral | Target Pin | Configuration |
