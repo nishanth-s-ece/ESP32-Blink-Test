@@ -3,6 +3,7 @@
 This repository documents the foundational setup of my ESP32 development ecosystem, confirming local compiler toolchains, serial communication via UART (COM5), and digital output execution.
 
 ## 🚀 Hardware Proof (Onboard Blue LED)
+
 <video src="WhatsApp Video 2026-07-02 at 10.58.51 PM.mp4" controls width="100%"></video>
 
 ## 💻 Software Configuration
